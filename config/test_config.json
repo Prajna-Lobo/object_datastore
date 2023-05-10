@@ -1,0 +1,8 @@
+{
+  "env": "test",
+  "mongo": {
+    "database": "test_datastore",
+    "host": "localhost",
+    "port": "27017"
+  }
+}

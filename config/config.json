@@ -1,0 +1,9 @@
+{
+  "env": "dev",
+  "mongo": {
+    "database": "datastore",
+    "host": "localhost",
+    "port": "27017",
+    "collection": "objects"
+  }
+}
